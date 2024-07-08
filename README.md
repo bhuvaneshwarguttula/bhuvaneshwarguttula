@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarguttula&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarguttula" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, NLP, CV**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, CV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhuvaneshwarguttula](https://github.com/bhuvaneshwarguttula)
 
