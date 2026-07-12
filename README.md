@@ -1,23 +1,172 @@
-<h1 align="center">Hi 👋, I'm Bhuvaneshwar Guttula</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarguttula&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarguttula" /> </p>
+# 👋 Hi, I'm Bhuvaneshwar Guttula
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, CV**
+### AI Engineer • Data Scientist • Computer Vision • Generative AI
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhuvaneshwarguttula](https://github.com/bhuvaneshwarguttula)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=3FB950&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions+that+solve+real-world+industrial+challenges." alt="Typing SVG" />
 
-- 📫 How to reach me **bhuvaneshwarguttula@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhuvaneshwar-guttula-b6568424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhuvaneshwar-guttula-b6568424b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhuvaneshwar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvaneshwar20" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+💡 AI Engineer and Data Scientist passionate about designing, developing, and deploying intelligent systems for industrial automation, computer vision, and Generative AI.
+
+🏭 Currently working on production-grade AI applications focused on:
+
+- 👁️ Computer Vision & Video Analytics
+- 🤖 Generative AI & LLM Applications
+- 📦 Warehouse Inventory Monitoring
+- ⚠️ Industrial Safety & Hazard Detection
+- 📈 AI-driven Process Optimization
+- 🚀 End-to-End AI Product Development
+- ⚡ FastAPI Backend Development
+- 🌐 React-based AI Dashboards
+
+---
+
+## 🔭 Current Focus
+
+- 🛡️ PPE & Workplace Safety Analytics
+- 📹 PPY Safety Video Analytics
+- 📦 Smart Warehouse Inventory Monitoring
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI & Multi-Agent Systems
+- ⚙️ Industrial AI & Manufacturing Intelligence
+- ☁️ AI Deployment & MLOps
+
+---
+
+## 🌱 Currently Learning
+
+- LangChain
+- LangGraph
+- Model Context Protocol (MCP)
+- LLM Memory Systems
+- LLM Evaluation Frameworks
+- Agentic AI
+- Multi-Agent Systems
+
+---
+
+## 💼 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvaneshwarguttula&show_icons=true&locale=en&layout=compact" alt="bhuvaneshwarguttula" /></p>
+### 🤖 AI & Machine Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwarguttula&show_icons=true&locale=en" alt="bhuvaneshwarguttula" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
+</p>
+
+**Frameworks & Libraries**
+
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- CatBoost
+- YOLO
+- LangChain
+- LangGraph
+- LlamaIndex
+
+---
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs"/>
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+---
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
+</p>
+
+---
+
+## 💡 Areas of Interest
+
+- Artificial Intelligence
+- Computer Vision
+- Industrial AI
+- Video Analytics
+- Large Language Models (LLMs)
+- Generative AI
+- AI Agents
+- MLOps
+- Intelligent Automation
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI Engineering Projects
+- Computer Vision Applications
+- Generative AI Solutions
+- Industrial AI & Manufacturing
+- Open Source AI Projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/bhuvaneshwar-guttula-b6568424b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bhuvaneshwarguttula@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/bhuvaneshwar20">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=bhuvaneshwarguttula&style=for-the-badge)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Engineering intelligent systems that create measurable impact in the real world."*
+
+</div>
